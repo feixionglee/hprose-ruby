@@ -35,4 +35,5 @@ EOF
   }
   s.require_path = 'lib'
   s.has_rdoc     = false
+  s.add_dependency("uuidtools", "~> 2.1.5")
 end
