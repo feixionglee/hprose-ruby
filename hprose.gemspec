@@ -1,4 +1,5 @@
 require "hprose/version"
+
 Gem::Specification.new do |s|
   s.name        = 'hprose'
   s.version     = Hprose::VERSION.dup
