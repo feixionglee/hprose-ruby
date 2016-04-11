@@ -1,6 +1,7 @@
+require "hprose/version"
 Gem::Specification.new do |s|
   s.name        = 'hprose'
-  s.version     = '1.5.0'
+  s.version     = Hprose::VERSION.dup
   s.license     = 'MIT'
   s.author      = 'Ma Bingyao ( andot )'
   s.email       = 'andot@hprose.com'
